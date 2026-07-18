@@ -6,7 +6,7 @@
 **Program:** ZENAIZ x BVRIT Hyderabad Data Engineering Internship Program  
 **Track:** Data Engineering  
 **Duration:** 12 Weeks  
-**Team:** [Team 01 / Team Name]  
+**Team:** [Team 01 /IPL MatchDay 360]  
 **Students:** [Talari Dhanalaxmi], [Mounika Punna], [Pallavi Nawander]  
 **AI Teammate:** Used responsibly for explanation, debugging, review, and documentation support.
 
